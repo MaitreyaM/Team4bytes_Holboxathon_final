@@ -1,5 +1,12 @@
 # Advanced Voice Assistant with Integrated CLAP Agent, MCP, and A2A
 
+# OFFICIAL REPO OF CLAP AGENTS ( MY OWN POWERFUL MULTIAGENT PYTHON FRAMEWORK BUILT FROM SCRATCH :
+https://github.com/MaitreyaM/Clap-Agents
+# OFFICIAL DEMOS :
+https://www.linkedin.com/feed/update/urn:li:activity:7320075607348793344/
+
+https://x.com/MaitreyaMishraX/status/1925861481867862173
+
 <p align="center">
   <img src="media/GITCLAP.png" alt="CLAP Framework Logo" width="700"/>
 </p>
