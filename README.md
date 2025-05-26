@@ -6,14 +6,7 @@
 
 This project demonstrates a sophisticated, voice-controlled AI assistant built using the Google Agent Development Kit (ADK). Jarvis can manage Google Calendar, interact with Gmail via a Model Context Protocol (MCP) server, and delegate complex knowledge-based queries (including Retrieval Augmented Generation - RAG) to a custom agent built with the CLAP framework, communicating via the Agent-to-Agent (A2A) protocol.
 
-## Demo Video
 
-*Watch Jarvis in action! This video showcases the Gmail, Calendar, and CLAP RAG agent integration through voice commands.*
-
-**[Link to your Demo Video - e.g., YouTube, or `media/FINAL_CLAP_DEMO.gif` if you create a GIF]**
-
-*To embed a GIF (recommended for READMEs):*
-*`<p align="center"><img src="media/FINAL_CLAP_DEMO.gif" alt="Project Jarvis Demo" width="700"/></p>`*
 
 <p align="center">
   <img src="media/PIP_CLAP.png" alt="CLAP Pip Install Example" width="700"/>
