@@ -1,4 +1,4 @@
-# Project Jarvis: Advanced Voice Assistant with Integrated CLAP Agent, MCP, and A2A
+# Advanced Voice Assistant with Integrated CLAP Agent, MCP, and A2A
 
 <p align="center">
   <img src="media/GITCLAP.png" alt="CLAP Framework Logo" width="700"/>
