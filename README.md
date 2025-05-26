@@ -19,7 +19,7 @@ The system comprises three main, independently running server components:
 1.  **ADK Voice Agent (Jarvis - FastAPI UI & ADK Core)**:
     *   The primary user interface, providing voice input/output via a web UI (FastAPI + WebSockets).
     *   Core agent logic built with Google ADK (`Agent` class, `Runner`).
-    *   Uses a Gemini model (e.g., `gemini-1.5-flash-latest`) for its main reasoning.
+    *   Uses a Gemini model (e.g., `gemini-2.5-flash-latest`) for its main reasoning.
     *   **Responsibilities:**
         *   Handles real-time voice interaction (streaming input/output).
         *   Directly manages Google Calendar operations using local ADK tools.
